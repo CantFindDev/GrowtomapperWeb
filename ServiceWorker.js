@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-GrowtoMapper-1.0";
 const contentToCache = [
     "Build/WebGL Builds.loader.js",
-    "Build/WebGL Builds.framework.js.br",
-    "Build/WebGL Builds.data.br",
-    "Build/WebGL Builds.wasm.br",
+    "Build/WebGL Builds.framework.js.unityweb",
+    "Build/WebGL Builds.data.unityweb",
+    "Build/WebGL Builds.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
